@@ -2,9 +2,6 @@ console.log("League of legend")
 class Player{
     name1;
     name2;
-    attack;
-    blood1;
-    blood2;
     constructor(name1,name2){
         this.name1 = name1
         this.name2 = name2
